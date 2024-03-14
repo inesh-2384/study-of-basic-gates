@@ -69,21 +69,20 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by:AMEESHA JEFFI J
  RegisterNumber: 212223220007
  
- PROGRAM
+ 
+ ## PROGRAM
  
  ![312524418-91cd9c06-dc03-4c8c-9aca-5f9e3eab0189](https://github.com/inesh-2384/study-of-basic-gates/assets/146412203/f59bda19-13e3-4ded-a41e-8213a9a96232)
  
-**Logic symbol & Truthtable**
-
+## Logic symbol & Truthtable
 ![312524944-f9705d15-097d-41f0-938e-727ac8c817fe](https://github.com/inesh-2384/study-of-basic-gates/assets/146412203/0f705e86-c1d1-45a5-afd0-82d5801ffe1b)
 
-**RTL realization ** 
+## RTL realization 
+![312525416-523d3d1f-416e-46fc-b087-8e2e92053a69](https://github.com/inesh-2384/study-of-basic-gates/assets/146412203/073539d7-845e-4601-8f91-fddc0fa43be4)
 
-![312525416-523d3d1f-416e-46fc-b087-8e2e92053a69](https://github.com/inesh-2384/study-of-basic-gates/assets/146412203/e3b5037f-24bb-4b78-b5b3-df7df7a2dbac)
+## Output:
 
-Output:
-
-![312525723-f207de9e-70e8-480c-805b-7bba6eba26d7](https://github.com/inesh-2384/study-of-basic-gates/assets/146412203/96885693-044d-414f-a121-ed37729db81a)
+![312525723-f207de9e-70e8-480c-805b-7bba6eba26d7](https://github.com/inesh-2384/study-of-basic-gates/assets/146412203/3ea34a16-135e-4a02-abdd-03070dccf626)
 
 **Result:**
 
